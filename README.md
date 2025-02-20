@@ -83,7 +83,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/Shakthi008/Walmart-Data-Analysis-End-to-End-SQL-Python-Project-P-9
    ```
 2. Install Python libraries:
    ```bash
