@@ -134,4 +134,3 @@ This project is licensed under the MIT License.
 
 ---
 
-This version now strictly **focuses on MySQL** and **removes PostgreSQL** references. Let me know if you need any further tweaks! 🚀
